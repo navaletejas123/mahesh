@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+
+.mylogo{
+    width: 170px !important;
+}
+.openSans{
+    font-family: 'Open Sans', sans-serif !important;
+}
+.lightBlue{
+    color: #00a3e7;
+}
+.heroHeading{
+    font-weight: 600 !important;
+}
