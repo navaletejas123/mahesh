@@ -143,7 +143,8 @@ h6 {
 .navbar .active,
 .navbar .active:focus,
 .navbar li:hover>a {
-  color: #16df7e;
+  /* color: #16df7e; */
+  color: #00a3e7;
 }
 
 .navbar .getstarted,
@@ -199,7 +200,7 @@ h6 {
 .navbar .dropdown ul a:hover,
 .navbar .dropdown ul .active:hover,
 .navbar .dropdown ul li:hover>a {
-  color: #16df7e;
+  color: #00a3e7;
 }
 
 .navbar .dropdown:hover>ul {
@@ -299,7 +300,8 @@ h6 {
 .navbar-mobile a:hover,
 .navbar-mobile .active,
 .navbar-mobile li:hover>a {
-  color: #16df7e;
+  /* color: #16df7e; */
+  color:#00a3e7;
 }
 
 .navbar-mobile .getstarted,
@@ -335,7 +337,8 @@ h6 {
 .navbar-mobile .dropdown ul a:hover,
 .navbar-mobile .dropdown ul .active:hover,
 .navbar-mobile .dropdown ul li:hover>a {
-  color: #16df7e;
+  /* color: #16df7e; */
+  color: #00a3e7;
 }
 
 .navbar-mobile .dropdown>.dropdown-active {
